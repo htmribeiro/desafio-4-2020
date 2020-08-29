@@ -1,0 +1,26 @@
+credenciais ML
+
+{
+  "apikey": "3Px9xvJtwqSpDVycvLaeA2L2fO5KCaaA4ZTC3rWyWeLd",
+  "iam_apikey_description": "Auto-generated for key c5652ecf-964a-42fd-8253-ff3c69c01e84",
+  "iam_apikey_name": "wdp-writer",
+  "iam_role_crn": "crn:v1:bluemix:public:iam::::serviceRole:Writer",
+  "iam_serviceid_crn": "crn:v1:bluemix:public:iam-identity::a/d728cde607334cd1aeda5eaa03cbd790::serviceid:ServiceId-e41f8f36-9f75-4c06-87ba-251ad23c0f34",
+  "instance_id": "5931d8ea-0640-4e3a-811f-13982a3dae21",
+  "url": "https://us-south.ml.cloud.ibm.com"
+}
+
+Terminal de pontuação
+
+https://us-south.ml.cloud.ibm.com/v3/wml_instances/5931d8ea-0640-4e3a-811f-13982a3dae21/deployments/e07df055-dfac-4f73-9a80-b29efeb763b7/online
+
+****************************
+* Maratona Behind the Code *
+****************************
+Hey!
+Desafio: 4
+Status: Em processo de avaliação
+Sua submissão foi recebida e já está agendada para ser avaliada.
+
+Anote o UUID da sua submissão: 
+a62ef0c2-4461-4425-bb64-9815e7e3508f
